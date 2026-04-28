@@ -3,12 +3,6 @@
 NotebookLM 스타일의 멀티서비스 AI 문서 분석 및 질의응답 프로젝트입니다.  
 PDF 업로드, 비동기 요약, 벡터 검색, 근거 기반 채팅, JWT 인증 구조를 하나의 서비스 흐름으로 구성했습니다.
 
-## Preview
-
-<p align="center">
-  <img src="./images/notebooklm-clone.png" alt="NotebookLM Clone Preview" width="900" />
-</p>
-
 ## Architecture
 
 <p align="center">
@@ -59,7 +53,6 @@ PDF 업로드, 비동기 요약, 벡터 검색, 근거 기반 채팅, JWT 인증
 
 <p align="center">
   <img src="./images/documentupcomplete1.png" alt="Document Upload Complete 1" width="405" />
-  <img src="./images/documentupcomplete2.png" alt="Document Upload Complete 2" width="405" />
 </p>
 
 ### Chat Experience
