@@ -3,6 +3,12 @@
 NotebookLM 스타일의 멀티서비스 AI 문서 분석 및 질의응답 프로젝트입니다.  
 PDF 업로드, 비동기 요약, 벡터 검색, 근거 기반 채팅, JWT 인증 구조를 하나의 서비스 흐름으로 구성했습니다.
 
+## Preview
+
+<p align="center">
+  <img src="./images/notebooklm-clone.png" alt="NotebookLM Clone Preview" width="900" />
+</p>
+
 ## Architecture
 
 <p align="center">
@@ -24,6 +30,60 @@ PDF 업로드, 비동기 요약, 벡터 검색, 근거 기반 채팅, JWT 인증
 - AI 답변 근거 저장 및 재조회
 - JWT + Redis 기반 인증/재발급
 - PostgreSQL + pgvector 기반 벡터 검색
+
+## Screens
+
+### Authentication
+
+<p align="center">
+  <img src="./images/login.png" alt="Login Screen" width="820" />
+</p>
+
+### Workspace
+
+<p align="center">
+  <img src="./images/workspace.png" alt="Workspace Screen" width="820" />
+</p>
+
+### Notebook
+
+<p align="center">
+  <img src="./images/notebook.png" alt="Notebook Screen" width="820" />
+</p>
+
+### Document Upload
+
+<p align="center">
+  <img src="./images/documentup.png" alt="Document Upload" width="820" />
+</p>
+
+<p align="center">
+  <img src="./images/documentupcomplete1.png" alt="Document Upload Complete 1" width="405" />
+  <img src="./images/documentupcomplete2.png" alt="Document Upload Complete 2" width="405" />
+</p>
+
+### Chat Experience
+
+<p align="center">
+  <img src="./images/chat1.png" alt="Chat Screen 1" width="405" />
+  <img src="./images/chat2.png" alt="Chat Screen 2" width="405" />
+</p>
+
+<p align="center">
+  <img src="./images/chat3.png" alt="Chat Screen 3" width="405" />
+  <img src="./images/chat4.png" alt="Chat Screen 4" width="405" />
+</p>
+
+### Admin
+
+<p align="center">
+  <img src="./images/admin1.png" alt="Admin Screen 1" width="405" />
+  <img src="./images/admin2.png" alt="Admin Screen 2" width="405" />
+</p>
+
+<p align="center">
+  <img src="./images/admin3.png" alt="Admin Screen 3" width="820" />
+</p>
 
 ## Service Flow
 
